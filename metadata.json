@@ -1,5 +1,5 @@
 {
   "name": "Neon Asteroids",
-  "description": "A futuristic, neon-styled Asteroids arcade game featuring AI-powered mission briefings (Thinking Mode) and real-time space news integration (Search Grounding).",
+  "description": "A futuristic, neon-styled Asteroids arcade game. Standalone version.",
   "requestFramePermissions": []
 }
